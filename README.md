@@ -2,7 +2,9 @@
 A GUI chess game, all written in Python. 
 Later will add AI.
 <br>
-Struggling to add features to the UI like the one in Lichess. (Can check in Issues)
+
+## Images
+<img src="https://github.com/tejas-rathi05/Chess-Python.git/Screenshots/1.png" width="300" height="300" />
 
 
 ## Credits
